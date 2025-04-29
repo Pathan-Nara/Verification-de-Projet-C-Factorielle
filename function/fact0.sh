@@ -1,3 +1,4 @@
+#!/bin/bash
 facto=$(./$1 0)
 if [[ "$facto" == 1 ]]; then
 	echo "true"

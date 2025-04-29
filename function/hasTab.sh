@@ -1,3 +1,4 @@
+#!/bin/bash
 max=$(($(wc -l < "$1")+1))
 nbtab=0
 for (( i = 1; i <= $max; i++ )); do

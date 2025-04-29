@@ -1,3 +1,4 @@
+#!/bin/bash
 note=0
 g=$(find note.csv)
 

@@ -1,2 +1,2 @@
+#!/bin/bash
 make clean
-echo "cool"

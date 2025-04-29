@@ -1,3 +1,4 @@
+#!/bin/bash
 g=$(grep -E '[a-z0-9A-B]{80,}' $1)
 if [[ $g == '' ]]; then
 	echo "true"
