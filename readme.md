@@ -5,3 +5,8 @@ Notre projet a eu quelques aventures quelque peu farfelue, en gros j'ai fait le 
 # En resumé
 
 J'ai donc creer une autre version du projet en Shell et pour etre honnete j'ai juste envoyé tout ce que j'avais fait en bash a chat gpt pour qu'il le transforme en Shell donc je ne sais pas si la version en Shell sera aussi stable que la version Bash.
+
+# Edit
+
+Après quelques recherche en fait le bash c'est du shell... et bash signifie litteralement Bourne Again SHell
+Donc inutile d'essayer la version Shell car c'est chat gpt qui l'a fait donc ca sera surement pas très stable.
